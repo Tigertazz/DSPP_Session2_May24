@@ -9,3 +9,6 @@ folders are created just by adding a "/" at the endo fo a new file
 ### Heading 3
 
 #### Heading 4
+
+## Images
+![Me and the fam](assets/20221230_181216041_iOS.heic)
