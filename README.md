@@ -6,8 +6,8 @@ Text can just be written underneath the headings
 
 ## Heading 2
 folders are created just by adding a "/" at the endo fo a new file
-### Heading 3
-
+### Python Code
+![Python code](Analysis/Daily_MyCustomer_Update_V2.ipynb)
 #### Heading 4
 
 ## Images
