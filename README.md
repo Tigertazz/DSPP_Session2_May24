@@ -12,3 +12,6 @@ folders are created just by adding a "/" at the endo fo a new file
 
 ## Images
 ![Me and the fam](assets/20221230_181216041_iOS.heic)
+
+## URL link 
+[Mac rumours](https://www.macrumors.com/)
