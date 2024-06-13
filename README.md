@@ -15,3 +15,6 @@ folders are created just by adding a "/" at the endo fo a new file
 
 ## URL link 
 [Mac rumours](https://www.macrumors.com/)
+
+# Cheat Sheet
+[Cheat sheet to build the page](https://www.markdownguide.org/cheat-sheet/)
